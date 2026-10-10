@@ -1,6 +1,6 @@
-# 🚆 Mumbai Local Train Analytics – Power BI Dashboard
+# Mumbai Local Train Analytics – Power BI Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 Mumbai Local Train Analytics is an interactive Power BI dashboard designed to analyze passenger demand, railway line performance, station traffic, popular routes, train occupancy, delays, and weather-related operational patterns.
 
@@ -10,7 +10,7 @@ The dashboard is designed with an interactive navigation system, allowing users 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are:
 
@@ -27,7 +27,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI**
 - **DAX**
@@ -38,7 +38,7 @@ The main objectives of this project are:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The project uses an Excel-based Mumbai local train operational dataset.
 
@@ -58,9 +58,9 @@ The project uses an Excel-based Mumbai local train operational dataset.
 
 The dataset was modeled in Power BI using dimension and fact tables.
 
-# 📑 Dashboard Pages
+# Dashboard Pages
 
-## 1️⃣ Executive Overview
+## 1️) Executive Overview
 
 This page provides a high-level overview of Mumbai local train operations.
 
@@ -76,7 +76,7 @@ This page provides a high-level overview of Mumbai local train operations.
 
 ---
 
-## 2️⃣ Station & Route Analysis
+## 2️) Station & Route Analysis
 
 This page focuses on station-level and route-level passenger movement.
 
@@ -92,7 +92,7 @@ This page focuses on station-level and route-level passenger movement.
 
 ---
 
-## 3️⃣ Weather & Operations Analysis
+## 3️) Weather & Operations Analysis
 
 This page analyzes the relationship between weather conditions and train operations.
 
@@ -112,7 +112,7 @@ This page helps explore:
 
 ---
 
-# 📌 Key DAX Measures
+# Key DAX Measures
 
 Some of the important measures used in the dashboard include:
 
