@@ -122,21 +122,27 @@ Some of the important measures used in the dashboard include:
 Total Passengers =
 SUM('fact train operations'[Passengers])
 
+```DAX
 Total Trips =
 DISTINCTCOUNT('fact train operations'[Trip_ID])
 
+```DAX
 Avg Delay (min) =
 AVERAGE('fact train operations'[Delay_Minutes])
 
+```DAX
 Avg Occupancy % =
 AVERAGE('fact train operations'[Occupancy_Pct])
 
+```DAX
 Average Distance (KM) =
 AVERAGE('fact train operations'[Distance_KM])
 
+```DAX
 Average Estimated Fare (INR) =
 AVERAGE('fact train operations'[Estimated_Fare_INR])
 
+```DAX
 Average Passengers per Trip =
 DIVIDE(
     [Total Passengers],
