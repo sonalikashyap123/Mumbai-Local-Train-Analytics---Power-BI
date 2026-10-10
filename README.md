@@ -66,7 +66,6 @@ This page provides a high-level overview of Mumbai local train operations.
 
 <img width="1325" height="746" alt="Mumbai Local Train Analytics" src="https://github.com/user-attachments/assets/375a6174-705b-44b7-abcb-37e087b77a9a" />
 
-
 ### Key observations
 
 - The Western Line records the highest passenger demand among the railway lines in the dataset.
@@ -81,20 +80,7 @@ This page provides a high-level overview of Mumbai local train operations.
 
 This page focuses on station-level and route-level passenger movement.
 
-### KPIs
-
-- Total Stations
-- Average Distance (KM)
-- Average Fare (INR)
-- Average Passengers per Trip
-
-### Visualizations
-
-- Top Origin Stations by Passenger Volume
-- Top Destination Stations by Passenger Volume
-- Total Passengers by Train Type
-- Monthly Average Delay Trend
-- Top Most Popular Routes
+<img width="1327" height="743" alt="Station   Route Analysis" src="https://github.com/user-attachments/assets/45201402-1bbb-49cd-bd5f-4f143af91143" />
 
 ### Key observations
 
@@ -110,20 +96,7 @@ This page focuses on station-level and route-level passenger movement.
 
 This page analyzes the relationship between weather conditions and train operations.
 
-### KPIs
-
-- Total Passengers
-- Total Trips
-- Average Delay
-- Weather Categories
-
-### Visualizations
-
-- Passenger Demand by Weather
-- Average Delay by Weather
-- Average Occupancy by Weather
-- Passenger Share by Weather
-- Monthly Average Delay Trend by Weather
+<img width="1323" height="743" alt="Wheather   Operation Analysis" src="https://github.com/user-attachments/assets/92ad94a5-d12b-4b20-837a-e7949a158dad" />
 
 ### Analysis Areas
 
