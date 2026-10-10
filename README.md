@@ -116,15 +116,10 @@ This page helps explore:
 
 Some of the important measures used in the dashboard include:
 
-### Total Passengers
-
 ```DAX
 Total Passengers =
 SUM('fact train operations'[Passengers])
 
-### Total Trips
-
-```DAX
 Total Trips =
 DISTINCTCOUNT('fact train operations'[Trip_ID])
 
